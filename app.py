@@ -5,7 +5,7 @@ import os
 # Configuration de la page
 st.set_page_config(page_title="Dispos JDR", layout="wide")
 st.image("https://i.redd.it/dungeons-dragons-honor-among-thieves-3840-x-2160-v0-x5mw9i1aeyza1.jpg?width=3840&format=pjpg&auto=webp&s=d4f3740f9b570488a687247533305411817c17df", use_container_width=True)
-st.title("🎲 Donjon & Dragons Session")
+st.title("🧙‍♂️Donjon & Dragons Session🧙‍♂️")
 st.subheader("Disponibilités du samedi 10 au dimanche 18 (20h - 00h+)")
 
 # Paramètres
