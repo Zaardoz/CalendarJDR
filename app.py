@@ -12,7 +12,7 @@ jours = [
     "Samedi 10", "Dimanche 11", "Lundi 12", "Mardi 13", 
     "Mercredi 14", "Jeudi 15", "Vendredi 16", "Samedi 17", "Dimanche 18"
 ]
-joueurs = ["MJ", "Joueur 1", "Joueur 2", "Joueur 3", "Joueur 4"]
+joueurs = ["MJ", "Elisa", "Rody", "Pierre", "Jenn"]
 heures_fin = ["22h00", "22h30", "23h00", "23h30", "00h00", "00h30+", "Pas de limite"]
 
 # Interface de saisie
