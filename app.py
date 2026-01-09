@@ -4,7 +4,8 @@ import os
 
 # Configuration de la page
 st.set_page_config(page_title="Dispos JDR", layout="wide")
-st.title("🎲 Organisation Session JDR")
+st.image("C:\Users\Nikii\Desktop\Baniere.jpg", use_container_width=True)
+st.title("🎲 Donjon & Dragons Session")
 st.subheader("Disponibilités du samedi 10 au dimanche 18 (20h - 00h+)")
 
 # Paramètres
