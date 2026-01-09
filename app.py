@@ -4,7 +4,7 @@ import os
 
 # Configuration de la page
 st.set_page_config(page_title="Dispos JDR", layout="wide")
-st.image("https://ih1.redbubble.net/image.1820813262.1777/flat,750x,075,f-pad,750x1000,f8f8f8.jpg", use_container_width=True)
+st.image("https://www.shutterstock.com/fr/image-photo/old-school-game-style-role-playing-2463467367?trackingId=7dd1a249-fa32-4f4b-813c-06b1f97007b1&listId=searchResults", use_container_width=True)
 st.title("🎲 Donjon & Dragons Session")
 st.subheader("Disponibilités du samedi 10 au dimanche 18 (20h - 00h+)")
 
